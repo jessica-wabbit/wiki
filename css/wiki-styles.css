@@ -1,0 +1,28 @@
+h3 {
+  border-style: solid;
+  border-width: 2px;
+  border-color: gray;
+}
+
+img {
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  margin: 10px;
+}
+
+.padme {
+  padding: 10px;
+}
+
+h3.green {
+  background-color: green;
+}
+
+h3.blue{
+  background-color: blue;
+}
+
+h3.beige{
+  background-color: yellow;
+}
